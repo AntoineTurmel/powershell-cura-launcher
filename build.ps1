@@ -1,0 +1,1 @@
+ps2exe launcher.ps1 -noConsole -iconFile cura.ico -title 'Cura Launcher' -version 1.0 -product 'Cura Launcher'
